@@ -1,0 +1,14 @@
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\bin\Debug\QQIdea.exe
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\bin\Debug\QQIdea.pdb
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\MainWindow.baml
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\MainWindow.g.cs
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\App.g.cs
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\QQIdea_MarkupCompile.cache
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\QQIdea.g.resources
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\QQIdea.Properties.Resources.resources
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\QQIdea.exe
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\QQIdea.pdb
+d:\我的文档\visual studio 2010\Projects\QQIdea\QQIdea\obj\x86\Debug\App.baml
